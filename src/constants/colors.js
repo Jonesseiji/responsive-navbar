@@ -1,0 +1,7 @@
+export const COLORS = {
+  BLUE: "#0A3782",
+  DEFAULT_LIGHT: "#FFF",
+  DEFAULT_DARK: "#282828",
+  GRAY_VARIANT_1: "#505050",
+  GRAY_VARIANT_2: "#d9d9d9",
+};
